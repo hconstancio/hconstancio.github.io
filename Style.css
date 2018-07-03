@@ -1,0 +1,26 @@
+.borderbox {
+    border-width: 2px;
+    border-color: black;
+    border-style: dotted;
+    padding-bottom: 50px;
+}
+
+.blueText {
+    color: blue;
+}
+
+.greenText {
+    color: green;
+}
+
+.blueText {
+    color:black;
+}
+
+.frog {
+    float: left;
+}
+
+.copyright {
+    font-size: 10px;
+}
